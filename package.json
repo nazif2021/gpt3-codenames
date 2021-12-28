@@ -14,7 +14,8 @@
     "react-dom": "^16.13.1",
     "react-latex": "^2.0.0",
     "react-latex-next": "^1.2.0",
-    "react-scripts": "^3.4.1"
+    "react-scripts": "^3.4.1",
+    "yarn": "^1.22.17"
   },
   "scripts": {
     "start": "react-scripts start",

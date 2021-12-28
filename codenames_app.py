@@ -8,8 +8,8 @@ question_prefix = "answers: "
 answer_prefix = "clue: "
 
 # Construct GPT object and show some examples
-gpt = GPT(engine="davinci", 
-temperature=0.7, 
+gpt = GPT(engine="davinci",
+temperature=0.7,
 max_tokens=6,
 input_prefix=question_prefix,
 output_prefix=answer_prefix,
